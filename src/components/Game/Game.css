@@ -1,0 +1,12 @@
+.game {
+    display: flex;
+}
+
+.message {
+    margin-top: 0;
+}
+
+.field {
+    width: 200px;
+    margin: 10px;
+}
